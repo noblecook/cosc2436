@@ -1,0 +1,1394 @@
+Nov 03, 2024 12:01:01 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:01:12 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 12:04:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 12:05:14 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S641
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S202
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S839
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S190
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S410
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S542
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S672
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S385
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S012
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S362
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 12:10:42 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S641
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 641
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 641
+Nov 03, 2024 12:12:49 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S641
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 641
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 641
+Nov 03, 2024 12:36:55 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:37:24 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:37:24 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Start  SortAlgorithm.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S641
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S202
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S839
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S190
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S410
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S542
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S672
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S385
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S012
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S001
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 12:37:25 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S031
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S015
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S007
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S003
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S001
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 1
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 1
+Nov 03, 2024 12:57:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 12:57:39 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 10:41:51 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100GPA = 2.75
+Nov 03, 2024 10:54:19 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Magor = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 10:59:15 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 11:50:21 AM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 12:04:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 12:07:14 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:13:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 12:13:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S499
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S249
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S062
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S093
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S108
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S1000
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S097
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S099
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S100
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Student found: Student 100
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 12:14:22 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S050
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S806
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S343
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S090
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S331
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S831
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S702
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S560
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S517
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:30:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S439
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S872
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S718
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S436
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S904
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S059
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S348
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S504
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S042
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S084
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:31:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S019
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S411
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S693
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S595
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S670
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S622
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S912
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S688
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S563
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:36:48 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.StudentInformationSystem loadStudentsFromFile
+INFO: Finished loading student data.
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S922
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S290
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S379
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S126
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S298
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S285
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S798
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S022
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S061
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S523
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:37:29 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S495
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S864
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S290
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S839
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S544
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S335
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S354
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S466
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S582
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:44:15 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S590
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S291
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S228
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S817
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S063
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S381
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S311
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S150
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S243
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:46:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S740
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S440
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S484
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S522
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S124
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S319
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S729
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S303
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S024
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S195
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:46:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:51:01 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:51:01 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 3:51:01 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S638
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S204
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S764
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S691
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S751
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S942
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S511
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S481
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S668
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:51:02 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting completed.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Starting binary search
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S533
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S719
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S684
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S846
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S095
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S554
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S751
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S150
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S001
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+INFO: Checking student ID: S914
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.BinarySearch search
+WARNING: Student not found with ID: S100
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+Nov 03, 2024 3:56:09 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 4:10:52 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 100
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S100 Major = Mechanical Engineering GPA = 2.75
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:10:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:14:40 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:36:17 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:36:53 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:36:54 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:37:38 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:44:23 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:49:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:51:07 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:53:35 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 4:58:50 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 5:00:11 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 5:00:11 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 5:00:11 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:00:12 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+WARNING: Student not found.
+
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:02:05 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:02:27 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting to load student data from file: src\data\students_data.txt
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Loaded student data succesfully.
+
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting BubbleSort by studentID.
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Sorting by ID completed.
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Starting binary search
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Found student: Student 983
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Calculate Student GPA: S983 Major = Psychology GPA = 3.0
+
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Binary search complete.
+
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis on the sorting algorithm.
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: -------------------------------------------------------------------.
+Nov 03, 2024 5:03:24 PM edu.collin.cosc.tutor3.MainDriver main
+INFO: Performing analysis complete.
+

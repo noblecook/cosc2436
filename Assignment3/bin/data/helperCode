@@ -1,0 +1,160 @@
+ 
+            	/*
+            	try {
+            		System.out.println(line);
+                    // Pause for x seconds (x *1000 milliseconds)
+            		int x = 1;
+                    Thread.sleep(x * 1000);
+                } catch (InterruptedException e) {
+                    System.err.println("Sleep interrupted: " + e.getMessage());
+                }
+                */
+                
+                
+                
+        // Example of using BubbleSort
+        logger.info("Starting BubbleSort by studentID.");
+        SortAlgorithm bubbleSort = new BubbleSort();
+        studentInfoSystem.sortStudentsByID(bubbleSort);
+        logger.info("Sorting completed.");
+        
+        
+public class PerformAnalysis {
+    public static String analyzeSort(SortAlgorithm algorithm, List<Student> students) {
+        // Return a description of the time complexity based on algorithm type
+        if (algorithm instanceof BubbleSort) {
+            return "Bubble Sort: O(n^2) time complexity for average and worst cases.";
+        } else if (algorithm instanceof MergeSort) {
+            return "Merge Sort: O(n log n) time complexity for average and worst cases.";
+        }
+        return "Unknown sorting algorithm.";
+    }
+
+    public static String analyzeSearch(SearchAlgorithm algorithm) {
+        if (algorithm instanceof BinarySearch) {
+            return "Binary Search: O(log n) time complexity.";
+        }
+        return "Unknown search algorithm.";
+    }
+}
+
+
+
+package edu.collin.cosc.tutor3;
+import java.util.logging.Logger;
+import java.util.logging.Level;
+import java.util.Collections;
+import java.util.List;
+
+public class MainDriver {
+    public static void main(String[] args) {
+        final Logger logger = Logger.getLogger(MainDriver.class.getName());
+    	String fileName = "src\\data\\students_data.txt"; 
+        LoggerConfig.getFileHandler();
+    	
+    	// Load the student files
+        logger.info("Starting to load student data from file: " + fileName);
+        StudentInformationSystem studentInfoSystem = new StudentInformationSystem();
+        studentInfoSystem.loadStudentsFromFile(fileName);
+        
+        
+        // Verify students loaded and are in order - print first x elements
+        int x = 10; 
+        System.out.println("First x elements BEFORE shuffling where x = " + x);
+        printFirstXElements(studentInfoSystem.getStudents(), x);
+        
+                
+        // Now that the data file is loaded into the Student Info System, let's scramble the data
+        Collections.shuffle(studentInfoSystem.getStudents());
+        
+        // Verify students are shuffled - print first x elements
+        System.out.println("First x elements AFTER shuffling where x = " + x);
+        printFirstXElements(studentInfoSystem.getStudents(), x); 
+        
+        
+        
+
+        // Example of using BubbleSort
+        logger.info("Starting BubbleSort by studentID.");
+        SortAlgorithm bubbleSort = new BubbleSort();
+        studentInfoSystem.sortStudentsByID(bubbleSort);
+        logger.info("Sorting completed.");
+        
+        // Shuffle again before performing the analysis
+        Collections.shuffle(studentInfoSystem.getStudents());
+        
+        logger.info("Performing analysis on the sorting algorithm.");
+        System.out.println(PerformAnalysis.analyzeSort(bubbleSort, studentInfoSystem.getStudents()));
+        logger.info("Performing analysis complete.");
+     
+
+        // Example of using BinarySearch to find a student by ID - note, the data is sorted by ID 
+        // due to the PerformAnalysis.analyzeSort(bubbleSort, studentInfoSystem.getStudents())
+        
+        logger.info("Starting binary search");
+        SearchAlgorithm binarySearch = new BinarySearch();
+        Student foundStudent = studentInfoSystem.getStudentById("S100", binarySearch);
+        if (foundStudent != null) {
+            System.out.println("Found student: " + foundStudent.getName());
+            logger.info("Found student: " + foundStudent.getName());
+            logger.info("Calculate Student GPA: " + foundStudent.getStudentID() + 
+            		" Major = " + foundStudent.getMajor() + 
+            		" GPA = " + foundStudent.calculateGPA());
+        } else {
+            System.out.println("Student not found.");
+            logger.log(Level.WARNING, "Student not found.");
+
+        }
+        logger.info("Binary search complete");
+    }
+    
+    public static void loadStudentFiles(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void calculateGPARecursive(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void sortStudentsWithBubbleSort(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void searchStudentsByID(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void analyzeSortPerformance(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void analyzeSearchPerformance(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+    
+    public static void printFirstXElements(List<Student> students, int x) {
+        System.out.println("First " + x + " elements:");
+        for (int i = 0; i < Math.min(x, students.size()); i++) {
+            System.out.println(students.get(i));
+        }
+    }
+
+}
